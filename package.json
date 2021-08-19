@@ -1,6 +1,6 @@
 {
   "name": "react-socket-io",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "A react provider for socket.io, http://socket.io/",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "gulp"
   },
   "dependencies": {
-    "socket.io-client": "^1.5.0"
+    "socket.io-client": "^4.1.3"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.0.0",
